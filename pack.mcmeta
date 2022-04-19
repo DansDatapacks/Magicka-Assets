@@ -1,0 +1,27 @@
+{
+	"pack": {
+		"pack_format": 8,
+		"description": [
+			{
+				"text": "Magicka RP ",
+				"color": "gray"
+			},
+			{
+				"text": "v1.0 ",
+				"color": "dark_green"
+			},
+			{
+				"text": "[1.18+] ",
+				"color": "green"
+			},
+			{
+				"text": "By ",
+				"color": "gray"
+			},
+			{
+				"text": "DanMizu",
+				"color": "aqua"
+			}
+		]
+	}
+}

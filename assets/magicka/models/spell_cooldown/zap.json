@@ -1,0 +1,6 @@
+{
+    "parent": "magicka:spell/spell",
+    "textures": {
+		"layer0": "magicka:spell_cooldown/zap"
+	}
+}

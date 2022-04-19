@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gray_dye"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 415000
+      },
+      "model": "magicka:spell_cooldown/fireball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 415005
+      },
+      "model": "magicka:spell_cooldown/snowball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 415010
+      },
+      "model": "magicka:spell_cooldown/toxic_fang"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 415015
+      },
+      "model": "magicka:spell_cooldown/zap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 415115
+      },
+      "model": "magicka:spell_cooldown/noxious_cyclone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 415130
+      },
+      "model": "magicka:spell_cooldown/magnetic_pull"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 415135
+      },
+      "model": "magicka:spell_cooldown/thunderclap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 415150
+      },
+      "model": "magicka:spell_cooldown/meteor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 415195
+      },
+      "model": "magicka:spell_cooldown/lightning_bolt"
+    }
+  ]
+}

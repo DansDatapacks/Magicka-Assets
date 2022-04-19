@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/green_dye"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 415010
+      },
+      "model": "magicka:spell/toxic_fang"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 415115
+      },
+      "model": "magicka:spell/noxious_cyclone"
+    }
+  ]
+}

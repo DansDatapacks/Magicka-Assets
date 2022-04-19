@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/red_dye"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 415000
+      },
+      "model": "magicka:spell/fireball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 415150
+      },
+      "model": "magicka:spell/meteor"
+    }
+  ]
+}
